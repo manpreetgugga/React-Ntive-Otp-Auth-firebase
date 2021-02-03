@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523034489267",
+    "project_id": "authfirebase-8f0db",
+    "storage_bucket": "authfirebase-8f0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523034489267:android:43be652525c47d03549bc6",
+        "android_client_info": {
+          "package_name": "com.auth_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523034489267-g0vm438ptnst6r5jso7t731nbdhb8ogc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auth_otp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "523034489267-6ndqfhf6471930los9ilbbip0k3s1apj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe7vwEEnxBCXyoD772f7l-mfivj5KrAZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523034489267-6ndqfhf6471930los9ilbbip0k3s1apj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
